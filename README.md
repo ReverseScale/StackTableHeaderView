@@ -9,7 +9,6 @@ extension PatientsReportsHeaderView:StackTableHeaderProtocol{
 }
 ```
 
------
 ```swift
 override func awakeFromNib() {
         super.awakeFromNib()
