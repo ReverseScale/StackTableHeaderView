@@ -1,5 +1,7 @@
 # StackTableHeaderView
 
+![](http://og1yl0w9z.bkt.clouddn.com/17-11-10/33065562.jpg)
+
 代理方法:
 ```swift
 extension PatientsReportsHeaderView:StackTableHeaderProtocol{
